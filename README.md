@@ -35,12 +35,6 @@ npm run dev
 Now open **[http://localhost:3000](http://localhost:3000)** in your browser 🚀
 
 
-## 📸 Screenshots
-
-*Add screenshots of your app here for better presentation.*
-
----
-
 ## 🌍 Deployment
 
 You can deploy this app easily using:
