@@ -1,8 +1,8 @@
-# 📝 To-Do List Manager (Next.js)
+# To-Do List Manager (Next.js)
 
 A modern and responsive **To-Do List Manager** built with **Next.js** that helps users efficiently manage daily tasks. This application allows you to add, update, delete, and track tasks with a clean and user-friendly interface.
 
----
+
 
 ## 🚀 Features
 
@@ -13,32 +13,6 @@ A modern and responsive **To-Do List Manager** built with **Next.js** that helps
 * 📱 Fully responsive design
 * ⚡ Fast performance with Next.js
 * 🌙 (Optional) Dark mode support
-
----
-
-## 🛠️ Tech Stack
-
-* **Framework:** Next.js
-* **Language:** JavaScript / TypeScript
-* **Styling:** CSS / Tailwind CSS (if used)
-* **State Management:** React Hooks / Context API
-* **Deployment:** Vercel / Netlify / Other
-
----
-
-## 📂 Project Structure
-
-```
-todo-list-manager/
-│── components/      # Reusable UI components
-│── pages/           # Next.js pages (routes)
-│── styles/          # CSS or Tailwind styles
-│── public/          # Static assets
-│── utils/           # Helper functions
-│── package.json     # Dependencies and scripts
-```
-
----
 
 ## ⚙️ Installation & Setup
 
@@ -56,11 +30,10 @@ npm install
 
 # 4. Run the development server
 npm run dev
-```
+
 
 Now open **[http://localhost:3000](http://localhost:3000)** in your browser 🚀
 
----
 
 ## 📸 Screenshots
 
@@ -107,8 +80,7 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Your Name**
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+Muhammad Hassaan
 
 ---
 
